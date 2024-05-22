@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+h1{
+color: #3f6fb3;
+}
+h2 {
+  color: #333;
+}
+section {
+  margin: 20px;
+}
+h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+p {
+  line-height: 1.6;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 50%;
+  text-decoration: none;
+}
